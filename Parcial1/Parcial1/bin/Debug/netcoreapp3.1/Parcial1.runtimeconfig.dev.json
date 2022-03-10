@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Frayder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Frayder\\.nuget\\packages"
+    ]
+  }
+}
